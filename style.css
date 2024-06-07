@@ -56,7 +56,7 @@ nav ul{
 }
 
 .box:hover{
-    background-color: rgb(53, 57, 121);
+    background-color: rgba(53, 57, 121, 0.3);
 }
 
 .info {
